@@ -1,2 +1,2 @@
-# Geli-mi--Ticket
-Gelişmiş ticket botu
+# DIKKAT
+Dosyayı dosyanın içinden çıkar!! 
