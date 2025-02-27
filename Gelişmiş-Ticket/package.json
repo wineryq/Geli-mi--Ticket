@@ -1,0 +1,26 @@
+{
+  "name": "advanced-discord-ticket-bot",
+  "version": "1.0.0",
+  "description": "An advanced Discord ticket bot with interactive menus",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "tickets",
+    "support"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.3.1",
+    "mongodb": "^6.13.1",
+    "mongoose": "^8.0.3",
+    "nodemon": "^3.0.2"
+  }
+}
